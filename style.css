@@ -1,0 +1,468 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+   width: 100%;
+   height: 75px;
+   display: flex;
+   font-size: larger;
+   font-weight: 100px;
+   color: white;
+   justify-content: space-between;
+   align-items: center;
+   padding: 30px 10%;
+    background-image: linear-gradient(#033747 ,#020202);
+    
+}
+nav ul{
+    float: right;
+    
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    
+}
+nav li a{
+   color: blue;
+   font-size: larger;
+   text-transform: uppercase;
+   padding: 0px 10px;
+   text-decoration: none;
+   margin: 20px;
+}
+#img1{
+    width: 100px;
+    height: 30px;
+    border-radius: 40px;
+    
+    
+    
+}
+#div2{
+    width: 95%;
+    height: 800px;
+    background-color:rgb(235,237,232);
+    margin: 20px;
+    border-radius: 40px;
+
+    
+    
+
+}
+#img2{
+    width: 90%;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 1%;
+    cursor: pointer;
+    
+       
+}
+#h3tage{
+    color: blue;
+    margin-left: 10%;
+    font-size: xx-large;
+    text-align: center;
+}
+#h2tage{
+    margin-left: 10px;
+}
+.btn1{
+    margin-left: 10px;
+    border: 3px solid green;
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    cursor: pointer;
+    
+
+    
+    
+
+}
+.btn3{
+    margin-left: 30px;
+    border: 3px solid green;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+
+}
+.div1{
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    border: 2px solid black;
+    float: left;
+    margin: 50px;
+    border-radius: 40px;
+
+
+    
+
+}
+.div2{
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    border:  2px solid black;
+    border-radius: 40px;
+    margin-top: 70px;
+    float: left;
+    margin: 50px;
+    
+}
+.div3{
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 70px;
+    float: left;
+    margin: 80px;
+    border-radius: 40px;
+
+}
+.coin{
+    width: 245px;
+    height: 260px;
+    border-radius: 40px;
+}
+.modren{
+    text-align: center;
+    font-size: large;
+}
+.create{
+    margin-top: 10px;
+    font-size: medium;
+}
+.coin2{
+    width: 245px;
+    height: 260px;
+    border-radius: 40px;
+}
+.coin3{
+    width: 245px;
+    height: 260px;
+    border-radius: 40px;
+}   
+.pack{
+    text-align: center;
+    font-size: large;
+
+   
+}
+.first{
+    margin-top: 10px;
+    font-size: medium;
+
+}
+.optical{
+    text-align: center;
+    font-size: large;
+
+}
+.never{
+    margin-top: 10px;
+    font-size: medium;
+
+}
+#words{
+    margin-left: 20%;
+}
+#words2{
+    margin-left: 20%;
+}
+#end{
+    margin-left: 20%;
+}
+#discovery{
+    margin-left: 20%;
+}
+.bulid{
+    margin-top: 8%;
+    width: 100%;
+    height: 70%;
+    background-color: #F3FCF4;
+}
+h1{
+    text-align: center;
+    font-size:x-large;
+    color: purple;
+}
+#special{
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+#new{
+    margin-top: 10px;
+    margin-left:20px ;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+#one{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 10px;
+}
+#topic{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#storie{
+    text-align: center;
+    margin-top: 10px;
+}
+#real{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#life{
+    text-align: center;
+}
+#line{
+    text-align:  center;
+}
+.more{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#id1{
+    width: 250px;
+    height: 550px;
+    background-color: white;
+    border: 2px solid black;
+    float: left;
+    margin-top: 20px;
+    margin: 10px;
+    
+}
+#id2{
+    width: 250px;
+    height: 550px;
+    background-color: white;
+    border: 2px solid black;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#id3{
+    width: 250px;
+    height: 550px;
+    background-color: white;
+    border: 2px solid black;
+    float: left;
+    margin-top: 20px;
+    margin: 10px;
+    margin-left: 20px;
+}
+#id4{
+    width: 250px;
+    height: 550px;
+    background-color: white;
+    border: 2px solid black;
+    float: left;
+    margin-top: 20px;
+    margin: 10px;
+    margin-left: 50px;
+}
+.img3{
+    width: 240px;
+    height: 440px;
+    cursor: pointer;
+    
+}
+.mode{
+    text-align: center;
+}
+.img4{
+    width: 240px;
+    height: 440px;
+}
+.base{
+    text-align:center ;
+}
+.img5{
+    width: 240px;
+    height: 440px;
+}
+.staff{
+    text-align: center;
+}
+.img6{
+    width: 240px;
+    height: 440px;
+
+}
+.high{
+    text-align: center;
+}
+#h5tage{
+    color: green;
+    text-align: center;
+}
+#para{
+    color: green;
+    text-align: center;
+    margin-top: 10%;
+    font-size: xx-large;
+    cursor: pointer;
+}
+.themes1{
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    border: 2px solid red;
+    float: left;
+    margin: 60px;
+
+    
+}
+.themes2{
+    width: 500px;
+    height: 450px;
+    background-color: white;
+    border: 2px solid red;
+    float: left;
+    margin: 60px;
+    margin-right: 25px;
+    
+}
+.img7{
+    width: 100%;
+    height: 350px;
+    cursor: pointer;
+    
+}
+.img8{
+    width: 100%;
+    height: 350px;
+    cursor: pointer;
+    
+
+}
+#house{
+    text-align: center;
+    cursor: pointer;
+}
+#cal{
+    text-align: center;
+    cursor: pointer;
+}
+.text{
+    background-color: #002E25;
+    margin-top: 10px;
+    width: 100%;
+    height: 58%;
+   
+   
+}
+#bout{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 5px;
+}
+#online{
+    
+    font-size: larger;
+    color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: center;
+    
+}
+#point{
+    margin-left: 5px;
+    margin-top: 10px;
+    color: pink;
+    font-size: larger;
+    text-align: center;
+
+
+}
+h6{
+    color: white;
+    margin-left: 10px;
+    font-size: medium;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#sup{
+    font-size: larger;
+    margin-left: 10px;
+    color: pink;
+    margin-top: 40px;
+    text-align: center;
+}
+#free{
+    color: white;
+    margin-left: 10px;
+    font-size: medium;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.img9{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.img10{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+
+}
+.img11{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+
+}
+.img12{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.img13{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+
+}
+.img14{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+
+}
+.img15{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+    
+}
+
+    
+
+
